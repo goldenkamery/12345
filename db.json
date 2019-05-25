@@ -1,1 +1,31 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "userName": "Mary",
+        "logo": "http://www.shirleywarren.co.uk/_files/images/Our_School/Avatars/E9549B7B46276C57553DF2B689530317.PNG"
+      },
+      {
+        "id": 2,
+        "userName": "John",
+        "logo": "http://www.shirleywarren.co.uk/_files/images/Our_School/Avatars/0AAA43EA42D0AF9147ABEB90D35363AC.JPG"
+      }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "content": "posts/001.txt"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "content": "posts/002.txt"
+        }
+    ]
+  }
+
+
+
+
 
